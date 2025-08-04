@@ -88,4 +88,4 @@ Not shown: 1000 closed tcp ports (reset)
 
 ## 🔗 Submission
 
-**GitHub Repository Link:** [https://github.com/vasudeva3/Task1-network-scan]
+**GitHub Repository Link:** [https://github.com/TharunkumarN1729/intern-CS]
